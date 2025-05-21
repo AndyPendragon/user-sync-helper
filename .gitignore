@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info
+*.deb
+*.rpm
+tmp*
+
+# Environment variable
+.env
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller
+#  Usually these files are written into a _MEIPASS folder, but if the user
+#  is running a script as opposed to a bundled exe, then dependencies are
+#  placed in the dist folder.
+/dist
+/build
+/_MEIPASS*
+
+# IDEs and editors
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
